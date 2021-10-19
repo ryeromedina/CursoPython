@@ -4,4 +4,7 @@ for dato in lista:
     print(dato)
     
     
-  
+for items in range(1, 6):
+    print(items)
+
+print('hola mundo')    
